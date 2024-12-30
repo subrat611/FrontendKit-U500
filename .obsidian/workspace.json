@@ -11,10 +11,14 @@
             "id": "b463b4cb5c63ef9c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -154,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b463b4cb5c63ef9c",
+  "active": "e249fcd08ab43ea9",
   "lastOpenFiles": [
+    "README.md",
     "Patterns Dev/test.md",
     "Namaste JavaScript 1/test.md",
     "Learners Bucket/test.md",
