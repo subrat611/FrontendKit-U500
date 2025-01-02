@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High Performance Browser Networking/Networking 101/1. Primer on Latency and Bandwidth.md",
+                "file": "High Performance Browser Networking/Networking 101/4. Transport Layer Security (TLS).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Primer on Latency and Bandwidth"
+              "title": "4. Transport Layer Security (TLS)"
             }
           }
         ]
@@ -160,8 +160,12 @@
   },
   "active": "c21da797a5919e84",
   "lastOpenFiles": [
-    "High Performance Browser Networking/README.md",
+    "High Performance Browser Networking/assets/tls.png",
+    "High Performance Browser Networking/assets/tls.png.crdownload",
+    "High Performance Browser Networking/assets",
     "High Performance Browser Networking/Networking 101/1. Primer on Latency and Bandwidth.md",
+    "High Performance Browser Networking/README.md",
+    "High Performance Browser Networking/Networking 101/4. Transport Layer Security (TLS).md",
     "High Performance Browser Networking/Networking 101",
     "README.md",
     "Patterns Dev/test.md",
@@ -179,8 +183,6 @@
     "Learners Bucket",
     "Namaste JavaScript 1",
     "Web technologies & Optimization",
-    "System Design",
-    "JavaScript Info",
     "Welcome.md"
   ]
 }
