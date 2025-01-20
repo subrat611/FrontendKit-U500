@@ -11,13 +11,46 @@
             "id": "fc456cab83dfb6fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript Info/Part 1 - The JavaScript language/Introduction to JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to JavaScript"
+            }
+          },
+          {
+            "id": "45f17b1cdfa3d7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Type Conversions.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type Conversions"
+            }
+          },
+          {
+            "id": "a236e971cd2891af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Objects - the basics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects - the basics"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,11 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc456cab83dfb6fd",
+  "active": "a236e971cd2891af",
   "lastOpenFiles": [
+    "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Type Conversions.md",
+    "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Objects - the basics.md",
+    "JavaScript Info/Part 1 - The JavaScript language/Introduction to JavaScript.md",
     "High Performance Browser Networking/assets/CTRL.2024.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv.crdownload",
     "High Performance Browser Networking/Networking 101/4. Transport Layer Security (TLS).md",
-    "JavaScript Info/Part 1 - The JavaScript language/Introduction to JavaScript.md",
     "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals",
     "JavaScript Info/Part 1 - The JavaScript language",
     "JavaScript Info/test.md",
@@ -180,7 +215,6 @@
     "Patterns Dev",
     "High Performance Browser Networking",
     "DevTools Tech",
-    "Learners Bucket",
     "Welcome.md"
   ]
 }
