@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2423fa403125572a",
+        "id": "0b84a48afea72018",
         "type": "tabs",
         "children": [
           {
-            "id": "a1875a10d3cd9065",
+            "id": "c3f9ee3b21123fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,13 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1875a10d3cd9065",
+  "active": "c3f9ee3b21123fd6",
   "lastOpenFiles": [
-    "assets.md",
+    "JavaScript Info/assets/img1.png",
     "JavaScript Info/Part 1 - The JavaScript language/Objects - the basics/3. Garbage collection.md",
+    "JavaScript Info/assets/Pasted image 20250121215913.png",
+    "assets.md",
     "README.md",
     "JavaScript Info/Part 1 - The JavaScript language/Objects - the basics/2. Object references and copying.md",
-    "JavaScript Info/assets/Pasted image 20250121215913.png",
     "JavaScript Info/assets",
     "JavaScript Info/Part 1 - The JavaScript language/Objects - the basics/1. Objects.md",
     "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Type Conversions.md",
