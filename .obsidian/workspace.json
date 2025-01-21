@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "3. Garbage collection"
             }
+          },
+          {
+            "id": "6be0b6bd56e84289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GreatFrontend/GFE 75/1. What's the difference between `block`, `inline`, and `inline-block`?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. What's the difference between `block`, `inline`, and `inline-block`?"
+            }
+          },
+          {
+            "id": "484a51785abf4ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GreatFrontend/GFE 75/2. What's the difference between a JavaScript variable that is `null`, `undefined` or undeclared?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. What's the difference between a JavaScript variable that is `null`, `undefined` or undeclared?"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,10 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3f9ee3b21123fd6",
+  "active": "484a51785abf4ab7",
   "lastOpenFiles": [
-    "JavaScript Info/assets/img1.png",
+    "GreatFrontend/GFE 75/1. What's the difference between `block`, `inline`, and `inline-block`?.md",
+    "GreatFrontend/GFE 75/2. What's the difference between a JavaScript variable that is `null`, `undefined` or undeclared?.md",
     "JavaScript Info/Part 1 - The JavaScript language/Objects - the basics/3. Garbage collection.md",
+    "GreatFrontend/GFE 75",
+    "JavaScript Info/assets/img1.png",
     "JavaScript Info/assets/Pasted image 20250121215913.png",
     "assets.md",
     "README.md",
@@ -190,7 +222,6 @@
     "System Design/test.md",
     "Web technologies & Optimization/test.md",
     "GreatFrontend",
-    "Patterns Dev",
     "Welcome.md"
   ]
 }
