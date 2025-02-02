@@ -1,0 +1,48 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 300px;
+  overflow: scroll;
+  overflow-x: hidden;
+  padding: 10px;
+  background-color: #cacaca31;
+}
+
+.product-card {
+  width: 700px;
+  border: 1px solid #cfcfcf;
+  padding: 10px;
+  margin: 5px;
+}
+
+.page-container {
+  margin-top: 20px;
+}
+
+.page-number {
+  border: 1px solid #4d4d4d;
+  padding: 10px;
+  margin: 0 3px;
+  cursor: pointer;
+}
+
+.page-active {
+  background-color: #7c7c7ce5;
+}
