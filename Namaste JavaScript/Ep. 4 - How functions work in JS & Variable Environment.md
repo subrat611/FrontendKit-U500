@@ -38,8 +38,8 @@ A global execution context moved into the stack.
 After the execution of function `a()` it will removed from the call stack.
 Here the created context have it's own local variable (the variables that are within scope of a), Which is `x` inside the function `a()`.
 
-![callstack-3](asset/Pasted%20image%2020250204213202.png)
+![callstack-3](../Pasted%20image%2020250204213202.png)
 
-![callstack-4](asset/Pasted%20image%2020250204213550.png)
+![callstack-4](../Pasted%20image%2020250204213550.png)
 
 After the execution of whole program the `global execution context` is also removed from the call stack.
