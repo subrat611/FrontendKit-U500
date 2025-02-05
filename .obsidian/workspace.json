@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BFE dev/Quiz/Scope - Understanding Scope in for Loops with var and let.md",
+                "file": "BFE dev/Quiz/1. Scope - Understanding Scope in for Loops with var and let.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope - Understanding Scope in for Loops with var and let"
+              "title": "1. Scope - Understanding Scope in for Loops with var and let"
             }
           }
         ]
@@ -159,9 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e249fcd08ab43ea9",
+  "active": "acfbe52ca142bbe9",
   "lastOpenFiles": [
-    "BFE dev/Quiz/Scope - Understanding Scope in for Loops with var and let.md",
+    "BFE dev/Quiz/1. Scope - Understanding Scope in for Loops with var and let.md",
     "BFE dev/Quiz",
     "BFE dev",
     "30 Days JS (KodeKarma.dev)/Module 1 - Core JavaScript Concepts/Day 1 - JavaScript Variables & Data Types.md",
