@@ -37,13 +37,13 @@ You can say the `inner()` function lexically inside `outer()` function. Same the
 
 #### Demo
 
-![lexical-environment-demo](../Pasted%20image%2020250205213346.png)
+![lexical-environment-demo](asset/Pasted%20image%2020250205213346.png)
 
 If you see the lexical environment of `a`, it have local memory of `a` + `reference` to the lexical environment of it's parent (`this: Window`).
 
 Same for the lexical environment of `c`
 
-![demo-lexical-environment-2](../Pasted%20image%2020250205213816.png)
+![demo-lexical-environment-2](asset/Pasted%20image%2020250205213816.png)
 
 ### Scope
 
