@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e8e8018f009541a",
+        "id": "b3bcef02f00dcac3",
         "type": "tabs",
         "children": [
           {
-            "id": "a32b911276d1f24c",
+            "id": "ce6fd3a7031e7cee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namaste JavaScript/Ep. 8 - let & const in JS & Temporal Dead Zone.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ep. 8 - let & const in JS & Temporal Dead Zone"
+              "title": "New tab"
             }
           }
         ]
@@ -159,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a32b911276d1f24c",
+  "active": "ce6fd3a7031e7cee",
   "lastOpenFiles": [
-    "Namaste JavaScript/asset/Pasted image 20250206090317.png",
+    "Namaste JavaScript/Ep. 9 - Block  Scope & Shadowing in JS.md",
+    "Namaste JavaScript/Ep. 7 - The Scope Chain, Scope & Lexical Environment.md",
     "Namaste JavaScript/Ep. 8 - let & const in JS & Temporal Dead Zone.md",
+    "Namaste JavaScript/asset/Pasted image 20250207084628.png",
+    "Namaste JavaScript/asset/Pasted image 20250206090317.png",
     "Namaste JavaScript/Ep. 3 - Hoisting in JavaScript - Variables & Functions.md",
     "Namaste JavaScript/Ep. 5 - Shortest JS program window & this keyword.md",
     "Namaste JavaScript/Ep. 4 - How functions work in JS & Variable Environment.md",
@@ -175,7 +174,6 @@
     "30 Days JS (KodeKarma.dev)/Module 1 - Core JavaScript Concepts/Day 1 - JavaScript Variables & Data Types.md",
     "30 Days JS (KodeKarma.dev)/Module 1 - Core JavaScript Concepts",
     "30 Days JS (KodeKarma.dev)",
-    "Namaste JavaScript/Ep. 7 - The Scope Chain, Scope & Lexical Environment.md",
     "Namaste JavaScript/asset/Pasted image 20250205213816.png",
     "Namaste JavaScript/asset/Pasted image 20250205213346.png",
     "Namaste JavaScript/asset/Pasted image 20250204213550.png",
@@ -203,8 +201,6 @@
     "Machine Coding/Pagination using React/node_modules/js-tokens/README.md",
     "Machine Coding/Pagination using React/node_modules/js-tokens/CHANGELOG.md",
     "Machine Coding/Pagination using React/node_modules/semver/README.md",
-    "Machine Coding/Pagination using React/node_modules/object-inspect/CHANGELOG.md",
-    "Machine Coding/Pagination using React/src/assets/react.svg",
-    "Machine Coding/Pagination using React/public/vite.svg"
+    "Machine Coding/Pagination using React/src/assets/react.svg"
   ]
 }
