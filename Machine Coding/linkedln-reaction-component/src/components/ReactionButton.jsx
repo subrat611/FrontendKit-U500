@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { useRef, useState } from "react";
+import { useCallback, useRef, useState } from "react";
 import { REACTIONS } from "../utils";
 
 const ReactionList = ({ isPopoverVisible, handleSelectReaction }) => {
@@ -36,11 +36,12 @@ const ReactionButton = ({ selectedReaction, setSelectedReaction }) => {
     setPopoverVisible(true);
   };
 
-  const handleMouseLeave = () => {
+  // NOTE: useCallback prevent unnecessary re-creations of same function on each render.
+  const handleMouseLeave = useCallback(() => {
     timeoutRef.current = setTimeout(() => {
       setPopoverVisible(false);
     }, 200);
-  };
+  }, []);
 
   return (
     <div
