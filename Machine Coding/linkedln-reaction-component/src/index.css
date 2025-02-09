@@ -1,68 +1,92 @@
-:root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
-
-body {
+*,
+::before,
+::after {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
+}
+
+.container {
+  height: 100vh;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+.post-wrapper {
+  height: 400px;
+  width: 400px;
+  border: 1px solid #5e5e5e;
+  display: flex;
+  flex-direction: column;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
+.post-header,
+.post-actions {
+  height: 60px;
+  width: 100%;
+}
+
+.post-header {
+  border-bottom: 1px solid #5e5e5e;
+  background: #e7e7e7;
+}
+
+.post-content {
+  background: #f3f3f3;
+  flex: 1;
+}
+
+.post-actions {
+  border-top: 1px solid #5e5e5e;
+  background: #e7e7e7;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.post-actions button {
+  background: transparent;
+  outline: none;
+  border: transparent;
+  font-size: 16px;
   cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+  padding: 10px;
+  border-radius: 7px;
+  text-transform: capitalize;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.post-actions button:hover {
+  background: #c7c7c77a;
+}
+
+.post-actions .reaction-wrapper {
+  position: relative;
+}
+
+.post-actions .reaction-wrapper .reaction-popover {
+  position: absolute;
+  top: -65px;
+  left: 0;
+  width: max-content;
+  height: max-content;
+  background-color: #e7e7e7;
+  padding: 5px 10px;
+  border-radius: 50px;
+  border: 1px solid #b3b2b27a;
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+  visibility: hidden;
+}
+
+.post-actions .reaction-wrapper .reaction-popover.visible {
+  opacity: 1;
+  transform: scale(1);
+  visibility: visible;
+}
+
+.post-actions .reaction-wrapper .reaction-popover .reactionlist-item:hover {
+  transform: scale(1.5);
+  background: transparent;
 }
