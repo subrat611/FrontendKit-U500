@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bcef02f00dcac3",
+        "id": "447cb439d8d054f9",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6fd3a7031e7cee",
+            "id": "2c8e4769700982cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,10 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce6fd3a7031e7cee",
+  "active": "2c8e4769700982cd",
   "lastOpenFiles": [
-    "Namaste JavaScript/Ep. 9 - Block  Scope & Shadowing in JS.md",
+    "Namaste JavaScript/Ep. 10 - Closures in JS.md",
     "Namaste JavaScript/Ep. 7 - The Scope Chain, Scope & Lexical Environment.md",
+    "Namaste JavaScript/Ep. 9 - Block  Scope & Shadowing in JS.md",
+    "Namaste JavaScript/asset/Pasted image 20250210203818.png",
+    "Namaste JavaScript/asset/Pasted image 20250210202130.png",
     "Namaste JavaScript/Ep. 8 - let & const in JS & Temporal Dead Zone.md",
     "Namaste JavaScript/asset/Pasted image 20250207084628.png",
     "Namaste JavaScript/asset/Pasted image 20250206090317.png",
@@ -180,7 +183,6 @@
     "Namaste JavaScript/asset/Pasted image 20250204213202.png",
     "Namaste JavaScript/asset/Pasted image 20250204213025.png",
     "Pasted image 20250204212856.png",
-    "Namaste JavaScript/asset/Pasted image 20250204212802.png",
     "Namaste JavaScript/Ep. 2 - How JavaScript Code is executed & Call Stack.md",
     "Namaste JavaScript/Ep. 1 - How JavaScript Works & Execution Context.md",
     "Machine Coding/Pagination using React/Pagination using React.md",
@@ -199,8 +201,6 @@
     "Machine Coding/Pagination using React/node_modules/esquery/README.md",
     "Machine Coding/Pagination using React/node_modules/uri-js/README.md",
     "Machine Coding/Pagination using React/node_modules/js-tokens/README.md",
-    "Machine Coding/Pagination using React/node_modules/js-tokens/CHANGELOG.md",
-    "Machine Coding/Pagination using React/node_modules/semver/README.md",
-    "Machine Coding/Pagination using React/src/assets/react.svg"
+    "Machine Coding/Pagination using React/node_modules/js-tokens/CHANGELOG.md"
   ]
 }
