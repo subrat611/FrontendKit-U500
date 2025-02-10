@@ -11,10 +11,14 @@
             "id": "2c8e4769700982cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Namaste JavaScript/Ep. 11 - setTimeout + Closures Interview Question.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ep. 11 - setTimeout + Closures Interview Question"
             }
           }
         ]
@@ -155,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8e4769700982cd",
+  "active": "e249fcd08ab43ea9",
   "lastOpenFiles": [
+    "Namaste JavaScript/Ep. 11 - setTimeout + Closures Interview Question.md",
     "Namaste JavaScript/Ep. 10 - Closures in JS.md",
     "Namaste JavaScript/Ep. 7 - The Scope Chain, Scope & Lexical Environment.md",
     "Namaste JavaScript/Ep. 9 - Block  Scope & Shadowing in JS.md",
