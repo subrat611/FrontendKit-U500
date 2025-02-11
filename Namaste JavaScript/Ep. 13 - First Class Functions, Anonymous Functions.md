@@ -84,7 +84,7 @@ greet(); // Hello, world!
 - Cannot be called before its definition.
 - Commonly used in **callbacks and function expressions**.
 
-## First-Class Functions
+## First-Class Functions (or functions are first-class citizens)
 
 In JavaScript, **functions are first-class citizens**, meaning:
 
@@ -122,6 +122,51 @@ console.log(double(5)); // 10
 - Functions can be stored in variables.
 - Functions can be used as arguments and return values.
 - Enables concepts like **callbacks and higher-order functions**.
+
+## Named Function
+
+A **named function** is a function that has a specific name. This makes it easier to debug, read, and reuse.
+
+```js
+function sayHello() {
+  console.log("Hello, world!");
+}
+
+sayHello(); // "Hello, world!"
+```
+
+📌 **Key Points:**
+
+- The function **has a name** (`sayHello`).
+- It can be called using its name.
+- It is **hoisted**, meaning it can be called **before** its definition.
+
+### Named Function Expression
+
+Even function expressions can have names. These are called **named function expressions**.
+
+```js
+const greet = function sayHi() {
+  console.log("Hi!");
+};
+
+greet();  // "Hi!"
+sayHi();  // ❌ ReferenceError: sayHi is not defined (not accessible outside)
+```
+
+📌 **Key Points:**
+
+- The function has a name (`sayHi`), but it is **only accessible inside** the function.
+- Useful for recursion and debugging.
+
+### Named Function vs Anonymous Function
+
+| Feature                        | Named Function           | Anonymous Function |
+| ------------------------------ | ------------------------ | ------------------ |
+| **Has a name?**                | ✅ Yes                    | ❌ No               |
+| **Hoisted?**                   | ✅ Yes (for declarations) | ❌ No               |
+| **Easier debugging?**          | ✅ Yes                    | ❌ No               |
+| **Can be used for recursion?** | ✅ Yes                    | ❌ No               |
 
 ## Conclusion
 
