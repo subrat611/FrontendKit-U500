@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "80609ed76b733d4c",
+        "id": "3f904372b76789d3",
         "type": "tabs",
         "children": [
           {
-            "id": "1566ec51f4579283",
+            "id": "726704a5923704e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Namaste JavaScript/Ep. 15 - Asynchronous JavaScript & Event Loop.md",
+                "file": "Namaste JavaScript/Ep. 17 - Trust Issues with setTimeout().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ep. 15 - Asynchronous JavaScript & Event Loop"
-            }
-          },
-          {
-            "id": "fade429a2a7a1e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Namaste JavaScript/Ep. 16 - JS Engine, Google's V8 Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ep. 16 - JS Engine, Google's V8 Architecture"
+              "title": "Ep. 17 - Trust Issues with setTimeout()"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fade429a2a7a1e05",
+  "active": "e249fcd08ab43ea9",
   "lastOpenFiles": [
+    "Namaste JavaScript/Ep. 17 - Trust Issues with setTimeout().md",
     "Namaste JavaScript/Ep. 15 - Asynchronous JavaScript & Event Loop.md",
     "Namaste JavaScript/Ep. 16 - JS Engine, Google's V8 Architecture.md",
     "Namaste JavaScript/asset/Pasted image 20250213084846.png",
