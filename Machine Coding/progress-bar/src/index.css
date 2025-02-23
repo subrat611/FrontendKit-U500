@@ -1,0 +1,32 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.MainContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  row-gap: 5rem;
+}
+
+.prgress {
+  border: 1px solid #000;
+  width: 300px;
+  overflow: hidden;
+}
+
+.progress-rate {
+  background: green;
+  color: white;
+  /* text-align: center; */
+  padding: 3px;
+
+  /* for adding transition the % get shifted to left */
+  text-align: right;
+  transition: transform 0.5s ease-in;
+}
