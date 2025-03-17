@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Namaste JavaScript/Ep. 19 - map(), filter() and reduce() in JavaScript.md",
+                "file": "Namaste JavaScript/Ep. 4 - How functions work in JS & Variable Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ep. 19 - map(), filter() and reduce() in JavaScript"
+              "title": "Ep. 4 - How functions work in JS & Variable Environment"
             }
           }
         ]
@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47c6d8ad7fc960de",
+  "active": "e249fcd08ab43ea9",
   "lastOpenFiles": [
+    "Namaste JavaScript/Ep. 4 - How functions work in JS & Variable Environment.md",
+    "Namaste JavaScript/asset/Pasted image 20250204213550.png",
     "Namaste JavaScript/Ep. 19 - map(), filter() and reduce() in JavaScript.md",
     "Namaste JavaScript/Ep. 18 - Higher-Order Functions ft. Functional Programming.md",
     "Namaste JavaScript/Ep. 17 - Trust Issues with setTimeout().md",
@@ -184,7 +186,6 @@
     "Namaste JavaScript/asset/Pasted image 20250206090317.png",
     "Namaste JavaScript/Ep. 3 - Hoisting in JavaScript - Variables & Functions.md",
     "Namaste JavaScript/Ep. 5 - Shortest JS program window & this keyword.md",
-    "Namaste JavaScript/Ep. 4 - How functions work in JS & Variable Environment.md",
     "Namaste JavaScript/Ep. 6 - undefined vs not defined in JS.md",
     "JavaScript Info/Part 1 - The JavaScript language/JavaScript Fundamentals/Type Conversions.md",
     "JavaScript Info/Part 1 - The JavaScript language/Introduction to JavaScript.md",
@@ -195,7 +196,6 @@
     "30 Days JS (KodeKarma.dev)/Module 1 - Core JavaScript Concepts",
     "30 Days JS (KodeKarma.dev)",
     "Namaste JavaScript/asset/Pasted image 20250205213816.png",
-    "Namaste JavaScript/asset/Pasted image 20250205213346.png",
     "Namaste JavaScript/Ep. 2 - How JavaScript Code is executed & Call Stack.md",
     "Namaste JavaScript/Ep. 1 - How JavaScript Works & Execution Context.md",
     "Machine Coding/Pagination using React/Pagination using React.md",
@@ -205,7 +205,6 @@
     "Pagination using React.md",
     "Machine Coding/Pagination using React/package-lock.json",
     "Machine Coding/Pagination using React/node_modules/@babel/types/package.json",
-    "Machine Coding/Pagination using React/node_modules/eslint-plugin-react/index.d.ts",
-    "Machine Coding/Pagination using React/node_modules/eslint-plugin-react/README.md"
+    "Machine Coding/Pagination using React/node_modules/eslint-plugin-react/index.d.ts"
   ]
 }
